@@ -1,6 +1,6 @@
 ### Hello, World!👋, This is Jayakrishnan
 #### Loves Design and Development
-![Design and Development](https://media-exp1.licdn.com/dms/image/C5616AQECCIBmdgfcdw/profile-displaybackgroundimage-shrink_350_1400/0/1608561718735?e=1614211200&v=beta&t=fP2Q-REc2vp9Ljyr74naPv2D9l6ElySFWfUX4nwioSk)
+![Design and Development](https://media-exp1.licdn.com/dms/image/C5616AQE6-7enPnugNg/profile-displaybackgroundimage-shrink_200_800/0/1608659797325?e=1614211200&v=beta&t=IGfNDAuosby8Wrqx7i6mV67_tGCMRx4ycy6uzAI1p0Y)
 
 I am a Computer Science student, and I do like Programming. Very much concerned about Design and Development. 
 
