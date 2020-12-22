@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/jayakrishnan98/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakrishnan98&layout=compact&theme=material-palenight" />
 </a>
----------------------------------------------------
