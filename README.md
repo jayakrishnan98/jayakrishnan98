@@ -6,7 +6,6 @@ I am a Computer Science student, and I do like Programming. Very much more conce
 
 Skills: REACT / JS / HTML / CSS / PYTHON / JAVA
 
-- 🔭 I’m currently working on this page. 
 
 
 
