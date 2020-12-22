@@ -1,5 +1,8 @@
 ### Hello, World!👋
+### This is Jayakrishnan
 
+
+---------------------------------------------------
 <!--
 **jayakrishnan98/jayakrishnan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Gautham's github stats](https://github-readme-stats.vercel.app/api?username=jayakrishnan98&count_private=true&show_icons=true&custom_title=Status&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---------------------------------------------------
+[![Jayakrishnan's github stats](https://github-readme-stats.vercel.app/api?username=jayakrishnan98&count_private=true&show_icons=true&custom_title=Status&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+---------------------------------------------------
