@@ -4,7 +4,7 @@
 
 I am a Computer Science student, and I do like Programming. Very much concerned about Design and Development. Actually I'm in my evolution time. A newbie looking at the largest building of programming.
 
-Skills: REACT / JS / HTML / CSS / PYTHON / JAVA
+Skills: REACT / JS / HTML / CSS / PYTHON / JAVA / NODEJS / MONGODB
 
 
 
