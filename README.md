@@ -8,12 +8,36 @@ Software Engineer || Angular || React || NodeJS || MongoDB || Express || FASTAPI
 
 
 
+## GitHub Activity
 
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=jayakrishnan98&theme=tokyonight&hide_border=true&border_radius=8" alt="jks GitHub streak" />
+  </a>
+</div>
 
+<br />
 
-<a href="https://github.com/jayakrishnan98/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakrishnan98&layout=compact&theme=material-palenight" />
-</a>
+<div align="center">
+  <a href="https://github.com/jayakrishnan98?tab=followers">
+    <img src="https://img.shields.io/github/followers/jayakrishnan98?style=for-the-badge&logo=github&label=Followers&color=00C2FF&labelColor=101827" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/jayakrishnan98?tab=repositories">
+    <img src="https://img.shields.io/github/stars/jayakrishnan98?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=FF4D8D&labelColor=101827" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/jayakrishnan98">
+    <img src="https://komarev.com/ghpvc/?username=jayakrishnan98&style=for-the-badge&color=7C3AED&label=Profile+Views" alt="Profile views" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/jayakrishnan98">
+    <img src="https://img.shields.io/badge/View%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+  </a>
+</div>
+
 
 
 
