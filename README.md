@@ -22,9 +22,7 @@ Software Engineer || Angular || React || NodeJS || MongoDB || Express || FASTAPI
   <a href="https://github.com/jayakrishnan98?tab=followers">
     <img src="https://img.shields.io/github/followers/jayakrishnan98?style=for-the-badge&logo=github&label=Followers&color=00C2FF&labelColor=101827" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/jayakrishnan98?tab=repositories">
-    <img src="https://img.shields.io/github/stars/jayakrishnan98?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=FF4D8D&labelColor=101827" alt="GitHub stars" />
-  </a>
+
   <a href="https://github.com/jayakrishnan98">
     <img src="https://komarev.com/ghpvc/?username=jayakrishnan98&style=for-the-badge&color=7C3AED&label=Profile+Views" alt="Profile views" />
   </a>
