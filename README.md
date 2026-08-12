@@ -32,12 +32,6 @@ Software Engineer || Angular || React || NodeJS || MongoDB || Express || FASTAPI
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/jayakrishnan98">
-    <img src="https://img.shields.io/badge/View%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
-  </a>
-</div>
-
 
 
 
